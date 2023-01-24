@@ -1,8 +1,6 @@
 pool: 
    name: goagent
 steps:
-- task: GoTool@0
-  inputs:
-    version: '1.10'
+
 
 - template: goCI-template-step.yml
