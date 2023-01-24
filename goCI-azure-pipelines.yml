@@ -1,0 +1,6 @@
+trigger:
+- main
+
+steps:
+
+- template: goCI-template-step.yml
