@@ -1,0 +1,1 @@
+# goCI_template
