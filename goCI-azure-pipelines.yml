@@ -1,3 +1,5 @@
+pool: 
+   name: attendance-agent
 trigger:
 - main
 
